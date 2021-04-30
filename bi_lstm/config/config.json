@@ -1,0 +1,11 @@
+{
+    "name":"bi_2l_02d_64h",
+    "n_epochs":30,
+    "bi_lstm":"True",
+    "nb_layer_lstm":2,
+    "dropout":0.2,
+    "size_hidden_layer":64,
+    "path_train":"data/train.csv",
+    "path_test":"data/test.csv"
+
+}
